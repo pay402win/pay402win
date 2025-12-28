@@ -12,14 +12,14 @@ A lightweight demo that lets a user:
 
 1. Pick a number **1–402**
 2. Pay **0.003 SOL** from their wallet
-3. See a result animation in the UI
+3. Win and claim your payout 🏆
 
 > Note: the current “result” / spin logic is client-side demo logic. If you need provably-fair outcomes, add an on-chain program + VRF oracle / backend verification.
 
 ## Payment
 
 - **Cost per play:** 0.003 SOL
-- **Treasury:** `9Qna3DJbuoVVeF73eVmHcY3WmtEUsHF4yrBp6LnaqbK4`
+
 
 ## Tech stack
 
